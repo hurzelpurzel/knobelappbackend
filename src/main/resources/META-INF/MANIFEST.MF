@@ -1,0 +1,7 @@
+
+Manifest-Version: 1.0
+Implementation-Title: Knobelapp
+
+Build-Jdk: 1.7
+Created-By: hurzelpurzel
+Main-Class: de.pottmeier.BasicApplication
